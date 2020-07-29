@@ -1,0 +1,10 @@
+{
+  0: {
+    date: new Date('07/29/2020'),
+    title: 'First Project',
+    description: 'This is a testing description about a project',
+    img: 'link',
+    body: 'a wall of text',
+    tags: ['first-project', 'web-project']
+  }
+}
